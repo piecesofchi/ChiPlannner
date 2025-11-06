@@ -1,19 +1,23 @@
 # ChiPlannner
 Timeline Project (Gantt Chart / Jadwal Pembuatan)
- 
-
-***1. Storyboard Project***
 <img width="935" height="526" alt="image" src="https://github.com/user-attachments/assets/780e3665-bab5-47f2-b42e-9b1601f9ea5c" />
+ 
+###
+***1. Storyboard Project***
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/38cbdc2b-7f9f-4d15-b3dd-779d422526a1" />
 
 https://www.figma.com/design/NYncYK1YhwHmPo0r7j1RRF/Storyboard?t=Ji6O2Xo6UkVArvMe-1
 
+###
 ***2. Mockup Project***
-<img width="511" height="528" alt="image" src="https://github.com/user-attachments/assets/0ec7d0c1-7096-44d7-8dd2-9b2a9196a6a0" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/07275656-8162-443d-b2ef-aa5478e5c0f9" />
+
 
 https://www.figma.com/design/FpcT6wuc5u3uyekmFVFKVC/Mockup?t=Ji6O2Xo6UkVArvMe-1
 
+###
 ***3. UI (User Interface) Project***
- <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/afd91a31-ef6b-4883-bfe2-58d46c773245" />
+<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/781b93d2-b6a7-4f3c-bb1e-dd1380690cb8" />
 
 https://www.figma.com/design/ztKuQWVOBLsAicTTia9zKs/UI?t=Ji6O2Xo6UkVArvMe-1
 
