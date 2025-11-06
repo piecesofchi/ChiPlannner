@@ -4,14 +4,13 @@ Timeline Project (Gantt Chart / Jadwal Pembuatan)
  
 ###
 ***1. Storyboard Project***
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/38cbdc2b-7f9f-4d15-b3dd-779d422526a1" />
+<img width="511" height="528" alt="image" src="https://github.com/user-attachments/assets/486ae7f8-9b3e-426f-8c0b-cc37914df5e6" />
 
 https://www.figma.com/design/NYncYK1YhwHmPo0r7j1RRF/Storyboard?t=Ji6O2Xo6UkVArvMe-1
 
 ###
 ***2. Mockup Project***
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/07275656-8162-443d-b2ef-aa5478e5c0f9" />
-
 
 https://www.figma.com/design/FpcT6wuc5u3uyekmFVFKVC/Mockup?t=Ji6O2Xo6UkVArvMe-1
 
@@ -21,6 +20,7 @@ https://www.figma.com/design/FpcT6wuc5u3uyekmFVFKVC/Mockup?t=Ji6O2Xo6UkVArvMe-1
 
 https://www.figma.com/design/ztKuQWVOBLsAicTTia9zKs/UI?t=Ji6O2Xo6UkVArvMe-1
 
+###
 ***4. UX (User Experience) Project***
  <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/810b52c6-91ae-44ee-85e5-039f1e2a9008" />
 
