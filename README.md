@@ -22,6 +22,6 @@ https://www.figma.com/design/ztKuQWVOBLsAicTTia9zKs/UI?t=Ji6O2Xo6UkVArvMe-1
 
 
 ### 4. UX (User Experience) Project
- <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/810b52c6-91ae-44ee-85e5-039f1e2a9008" />
+<img width="960" height="540" alt="ux" src="https://github.com/user-attachments/assets/4eff8add-463b-4dfe-bb4a-d27148598e28" />
 
-https://www.figma.com/design/5L2OlHP4XDHWIVGUPjxS93/UX?t=Ji6O2Xo6UkVArvMe-1
+https://www.figma.com/design/5L2OlHP4XDHWIVGUPjxS93/UX?m=auto&t=AcxYvyYtzM2Bk6nn-6
